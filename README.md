@@ -33,3 +33,7 @@ The project maintains the following directories:
 4. Erroneously predicted landmark points
 
 ![alt text](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/Figure_3.png)
+
+## References
+
+S. Jha, N. Agarwal, and S. Agarwal, “Towards Improved Cartoon Face Detection and Recognition Systems,” 2018, arXiv:1804.01753v1.
