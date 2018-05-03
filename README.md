@@ -15,3 +15,9 @@ The project maintains the following sub-parts:
 - [gender_recognition](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/gender_recognition) contains the code for the character recognition of the cartoons based on the Inception v3+SVM and the proposed HCNN model.
 
 - [outputs](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/outputs) contains the accuracy and top-5 error rate graphs for the character recognition problem, the model architectures used as well as the results of the face detection models.
+
+## Outputs
+
+1. Face detection using MTCNN
+
+![alt text](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/Figure_3.png)
