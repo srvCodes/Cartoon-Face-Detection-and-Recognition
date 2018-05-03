@@ -18,6 +18,15 @@ The project maintains the following sub-parts:
 
 ## Outputs
 
-1. Face detection using MTCNN
+1. MTCNN face detection
+![MTCNNfacedetect](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/faceDetectionbyMTCNN.png)
+
+2. OpenCV face detection 
+![Opencv](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/faceRecognitionByOpenCv.png)
+
+3. dlib face detection 
+![dlib](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/faceRecognitionDlib.png)
+
+4. Erroneously predicted landmark points
 
 ![alt text](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/Figure_3.png)
