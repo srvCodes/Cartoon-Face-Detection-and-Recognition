@@ -2,7 +2,7 @@
 
 This repo contains the codes necessary to reproduce the results of the paper [Towards Improved Face Detection and Recognition Systems](https://arxiv.org/abs/1804.01753).
 
-The project maintains the following sub-parts:
+The project maintains the following directories:
 
 - [preprocessing](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/preprocessing) contains the files for parsing the XML files to filter the images based on the attributes required by the sub-tasks of the project (i.e., class-wise, gender-wise, facial posture wise manners).
 
@@ -19,12 +19,15 @@ The project maintains the following sub-parts:
 ## Outputs
 
 1. MTCNN face detection
+
 ![MTCNNfacedetect](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/faceDetectionbyMTCNN.png)
 
 2. OpenCV face detection 
+
 ![Opencv](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/faceRecognitionByOpenCv.png)
 
 3. dlib face detection 
+
 ![dlib](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/outputs/faceRecognitionDlib.png)
 
 4. Erroneously predicted landmark points
