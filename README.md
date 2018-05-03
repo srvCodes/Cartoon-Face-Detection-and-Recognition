@@ -8,6 +8,10 @@ The project maintains the following directories:
 
 - [landmark_extractor](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/landmark_extractor) contains the code for managing the 15 facial landmarks extraction, arranging these to the format compatible of being merged with the Kaggle instances and training the 5 layer LeNet architecture for landmark extraction. The output csv is further used in the character and gender recognition of the cartoon faces.
 
+- [datasets](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/datasets) hosts two files:
+ 
+  - [train_own.csv](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/datasets/train_own.csv) is the output of running [append_pixels_new.py](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/landmark_extractor/append_pixels_new.py) on [onlyLandmarks.csv](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/datasets/onlyLandmarks.csv), that contains comma separated landmark coordinates manually extracted using [LandmarkManuallyGetter.jar](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/blob/master/LandmarkManuallyGetter.jar).
+  
 - [face_detection](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/face_detection) contains the code for running the MTCNN, Haar and HOG based models.
 
 - [face_recognition](https://github.com/Saurav0074/Cartoon-Face-Detection-and-Recognition/tree/master/face_recognition) contains the code for the character recognition of the cartoons based on the Inception v3+SVM and the proposed HCNN model.
