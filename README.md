@@ -1,4 +1,4 @@
-# Cartoon-Face-Detection-and-Recognition
+# Cartoon-Face-Detection-and-Recognition [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This repo contains the codes necessary to reproduce the results of the paper [Towards Improved Face Detection and Recognition Systems](https://arxiv.org/abs/1804.01753).
 
